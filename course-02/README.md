@@ -1,1 +1,4 @@
 # Course 2: [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/learn/algorithms-graphs-data-structures)
+
+Includes the following programming assignments:
+* [Assignment 1](assignment_1): Computing Strongly Connected Components
