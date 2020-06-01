@@ -2,3 +2,5 @@
 
 Includes the following programming assignments:
 * [Assignment 1](assignment_1): Karatsuba's Algorithm
+* [Assignment 2](assignment_2): Counting Inversions
+* ...
