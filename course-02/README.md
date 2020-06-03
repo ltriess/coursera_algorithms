@@ -2,3 +2,4 @@
 
 Includes the following programming assignments:
 * [Assignment 1](assignment_1): Computing Strongly Connected Components
+* [Assignment 2](assignment_2): Dijkstra's Shortest-Path Algorithm
